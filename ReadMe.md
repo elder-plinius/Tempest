@@ -12,6 +12,7 @@ One of the standout features of Tempest is its ability to autonomously monitor a
 - Prioritize issues based on predefined criteria.
 - Generate and commit code to resolve issues.
 - Close issues upon successful code deployment and testing.
+- Crowd-sourced BrainTempest: community members can add ideas as they think of them and agents can suggest the most viable to start building.
 
 This feature aims to significantly reduce manual intervention in issue management, thereby streamlining the development process.
 
